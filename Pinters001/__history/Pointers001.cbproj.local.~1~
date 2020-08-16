@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019-10-10 00:39:50.765,=C:\Users\estra\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019-10-10 00:39:51.392,=C:\Users\estra\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019-10-10 00:41:55.499,E:\Github\Basic-Excercises-Cpp\Pinters001\File1.cpp=C:\Users\estra\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019-10-10 00:42:06.496,E:\Github\Basic-Excercises-Cpp\Pinters001\Project1PCH1.h=C:\Users\estra\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019-10-10 00:42:14.285,E:\Github\Basic-Excercises-Cpp\Pinters001\Pointers001PCH1.h=E:\Github\Basic-Excercises-Cpp\Pinters001\Project1PCH1.h</Transaction>
+    <Transaction>2019-10-10 00:42:14.293,E:\Github\Basic-Excercises-Cpp\Pinters001\Pointers001.cbproj=C:\Users\estra\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
